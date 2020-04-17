@@ -1,1 +1,4 @@
-Nothing to display here
+# Personal Random Page
+
+Directory :
+- [Arknight Chord Chart](/weeb-random) 
