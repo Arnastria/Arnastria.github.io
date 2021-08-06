@@ -4,30 +4,7 @@
     <title>Categories on Arnastria Site</title>
     <link>http://arnastria.github.io/categories/</link>
     <description>Recent content in Categories on Arnastria Site</description>
-    <image>
-      <url>http://arnastria.github.io/papermod-cover.png</url>
-      <link>http://arnastria.github.io/papermod-cover.png</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://arnastria.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>syntax</title>
-      <link>http://arnastria.github.io/categories/syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://arnastria.github.io/categories/syntax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>http://arnastria.github.io/categories/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://arnastria.github.io/categories/themes/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="http://arnastria.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
