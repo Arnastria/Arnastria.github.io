@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://arnastria.github.io/posts/hello-world/</loc>
+    <loc>http://arnastria.github.io/portofolio/portofolio-experience/</loc>
+    <lastmod>2021-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://arnastria.github.io/portofolio/portofolio-project/</loc>
     <lastmod>2021-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://arnastria.github.io/portofolio/portofolio-thesis/</loc>
+    <lastmod>2021-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://arnastria.github.io/portofolio/portofolio-competition/</loc>
+    <lastmod>2021-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://arnastria.github.io/posts/hello-world/</loc>
     <lastmod>2021-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://arnastria.github.io/</loc>

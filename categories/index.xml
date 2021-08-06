@@ -4,6 +4,10 @@
     <title>Categories on Arnastria Site</title>
     <link>http://arnastria.github.io/categories/</link>
     <description>Recent content in Categories on Arnastria Site</description>
+    <image>
+      <url>http://arnastria.github.io/profile.png</url>
+      <link>http://arnastria.github.io/profile.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://arnastria.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
