@@ -14,7 +14,7 @@ Systematic Literature Review Research paper :
 
 Published on The Indonesian Journal of Computer Science
 
-[https://doi.org/10.33022/ijcs.v13i4.4306](https://doi.org/10.33022/ijcs.v13i4.4306)
+[https://doi.org/10.33022/ijcs.v13i4.4306](https://www.researchgate.net/publication/383435869_Exploring_Knowledge_Sharing_in_Software_Development_Industry_A_Systematic_Review_on_Influencing_Factors_and_Practical_Implementations)
 
 ### Abstract
 

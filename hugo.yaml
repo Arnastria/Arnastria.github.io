@@ -23,6 +23,7 @@ params:
   # DateFormat: "September 28, 1999"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
+  enableInlineShortcodes: true
 
   ShowReadingTime: true
   ShowShareButtons: true
@@ -147,3 +148,6 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+
+security:
+  enableInlineShortcodes: true
